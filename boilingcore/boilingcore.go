@@ -15,9 +15,9 @@ import (
 	"github.com/friendsofgo/errors"
 	"github.com/volatiletech/strmangle"
 
-	"github.com/volatiletech/sqlboiler/v4/drivers"
-	"github.com/volatiletech/sqlboiler/v4/importers"
-	boiltemplates "github.com/volatiletech/sqlboiler/v4/templates"
+	"github.com/themontem/sqlboiler/v4/drivers"
+	"github.com/themontem/sqlboiler/v4/importers"
+	boiltemplates "github.com/themontem/sqlboiler/v4/templates"
 )
 
 var (
